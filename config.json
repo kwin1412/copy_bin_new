@@ -1,0 +1,19 @@
+{
+    "source_path": "D:/workspace/ICS_download/DM5220_bin/",
+    "target_path": [
+        "C:/Users/test/Desktop/dtool_mptool/MPTool/BinFiles/MICRON_B47R_1DIE_3DT_DW_256GB/",
+        "C:/Users/test/Desktop/dtool_mptool/MPTool/BinFiles/MICRON_B47R_1DIE_3DT_DW_512GB/",
+        "C:/Users/test/Desktop/dtool_mptool/MPTool/BinFiles/MICRON_B47R_1DIE_3DT_DW_1024GB/",
+        "C:/Users/test/Desktop/dtool_mptool/DTool_DM5216_F/BinFiles/"
+    ],
+    "save_path": "D:/workspace/ICS_download/DM5220_Backup/",
+    "file_name": [
+        "1_Mpfw.bin",
+        "3_PdtFw.bin",
+        "4_RdtFw.bin"
+    ],
+    "series": "GIT   ",
+    "remark": "remark",
+    "model": "DM5220",
+    "currect": 17
+}
